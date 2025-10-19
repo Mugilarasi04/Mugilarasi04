@@ -1,7 +1,5 @@
 <div align="center">
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?size=32&color=FF4D94&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Mugilarasi+M+S!;Engineer+%7C+Security+Enthusiast;Building+Secure+and+Intelligent+Systems"/>
-  </h1>
+  <h1>👋 Hi, I'm Mugilarasi M S</h1>
   <p>💡 Engineer | Security Enthusiast 🚀 Building intelligent systems that think, speak, and protect</p>
 </div>
 
@@ -23,8 +21,8 @@ I develop intelligent systems that solve real-world problems, from secure file s
 
 | Project | Description | Tech & GitHub |
 |---------|-------------|---------------|
-| **Proteus Encryption** | Multi-layered encryption system with **DPG, AEAD & Honey Engine**, deterministic keys (HKDF). | Python <br> [GitHub](https://github.com/Akshay-07-hash/Proteus--proto) |
-| **FadeDrop** | AES & SHA-256 based secure file sharing system for personal & professional use. | Python,html,css <br> [GitHub](https://github.com/Mugilarasi04/Fadedrop-file) |
+| **Proteus Encryption** | Multi-layered encryption system with **DPG, AEAD & Honey Engine**, deterministic keys (HKDF). | Python, C++ <br> [GitHub](https://github.com/Akshay-07-hash/Proteus--proto) |
+| **FadeDrop** | AES & SHA-256 based secure file sharing system for personal & professional use. | Python, MongoDB, Kivy <br> [GitHub](https://github.com/Mugilarasi04/Fadedrop-file) |
 | **ENCOM Voice Assistant** | Mini personal assistant for PC with AI-powered real-time recognition & commands. | Python, Kivy, OpenCV <br> [GitHub](https://github.com/MugilArasi/Encom-Voice-Assistant) |
 | **Freelance & Personal Projects** | Text-to-Audio & Audio-to-Text, Medical Card QR Generator, Smart Classroom Manager | Various |
 </div>
@@ -91,5 +89,6 @@ I develop intelligent systems that solve real-world problems, from secure file s
 
 ---
 
-> 💡 *"Security is not just about encryption—it’s about building trust through innovation and intelligence."* 
+> 💡 *"Security is not just about encryption—it’s about building trust through innovation and intelligence."*
+
 
