@@ -1,0 +1,33 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a0a0a"/>
+      <stop offset="100%" stop-color="#111315"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1c1f22" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="420" fill="url(#bg)"/>
+  <rect width="1200" height="420" fill="url(#grid)"/>
+
+  <rect x="60" y="56" width="230" height="30" rx="15" fill="none" stroke="#39FF88" stroke-width="1.4"/>
+  <text x="175" y="76" font-family="Consolas, Menlo, monospace" font-size="13" fill="#39FF88" text-anchor="middle">● OPEN TO OPPORTUNITIES</text>
+
+  <text x="60" y="175" font-family="Helvetica, Arial, sans-serif" font-size="50" font-weight="700" fill="#f5f5f5">Mugilarasi M S</text>
+  <text x="60" y="218" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="600" fill="#39FF88">Cybersecurity Developer &amp; Fintech Innovator</text>
+  <text x="60" y="250" font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#a3a3a3">Encryption Systems · AI Assistants · Offline-First Payments</text>
+
+  <rect x="60" y="280" width="180" height="46" rx="6" fill="#39FF88"/>
+  <text x="150" y="309" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#0a0a0a" text-anchor="middle" letter-spacing="1">VIEW PROJECTS →</text>
+
+  <rect x="256" y="280" width="150" height="46" rx="6" fill="none" stroke="#3a3a3a" stroke-width="1.4"/>
+  <text x="331" y="309" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#f5f5f5" text-anchor="middle" letter-spacing="1">RESUME ↓</text>
+
+  <line x1="60" y1="355" x2="1140" y2="355" stroke="#1c1f22" stroke-width="1"/>
+  <text x="60" y="384" font-family="Consolas, Menlo, monospace" font-size="13" fill="#6b6b6b">🏆 EXPO WINNER '25</text>
+  <text x="290" y="384" font-family="Consolas, Menlo, monospace" font-size="13" fill="#6b6b6b">🚀 HACKIITK TOP 24 · IIT KANPUR</text>
+  <text x="620" y="384" font-family="Consolas, Menlo, monospace" font-size="13" fill="#6b6b6b">📄 PUBLISHED · ICECT 2026</text>
+  <text x="900" y="384" font-family="Consolas, Menlo, monospace" font-size="13" fill="#6b6b6b">📍 CHENNAI, INDIA</text>
+</svg>
